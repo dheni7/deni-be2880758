@@ -1,1 +1,1 @@
-ngoding1
+console.log('Latihan Git - CAMP2022')
